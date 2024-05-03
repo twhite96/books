@@ -1,4 +1,4 @@
-baseurl = "https://reading.0x8c.org"
+baseurl = "https://books.0x8c.org"
 title = "Book Notes"
 copyright = "Copyright &copy; 2023 - tiff"
 canonifyurls = true
