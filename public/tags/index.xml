@@ -1,0 +1,25 @@
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+   <title>Tags on Book Notes</title>
+   <link>http://localhost:53166/tags/</link>
+   <description>Recent content in Tags on Book Notes</description>
+   <generator>Hugo -- gohugo.io</generator>
+   <language>en</language>
+   <copyright>Copyright &amp;copy; 2023 - tiff</copyright>
+   <lastBuildDate>Thu, 14 Mar 2024 00:00:00 +0000</lastBuildDate>
+   
+       <atom:link href="http://localhost:53166/tags/index.xml" rel="self" type="application/rss+xml" />
+   
+   
+     <item>
+       <title>Welcome</title>
+       <link>http://localhost:53166/posts/2024-02-26-gsoc/</link>
+       <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+       
+       <guid>http://localhost:53166/posts/2024-02-26-gsoc/</guid>
+       <description>&lt;p&gt;This is just a place for me to write about the books, articles, and whitepapers I&amp;rsquo;ve read, or maybe it&amp;rsquo;s just an excuse to use a &lt;em&gt;really cool minimal Hugo theme&lt;/em&gt;. Who knows.&lt;/p&gt;</description>
+     </item>
+   
+ </channel>
+</rss>
