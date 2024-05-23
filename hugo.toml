@@ -1,4 +1,4 @@
-baseurl = "https://books.0x8c.org"
+baseurl = "/"
 title = "Book Notes"
 copyright = "Copyright &copy; 2023 - tiff"
 canonifyurls = true
@@ -22,8 +22,8 @@ pygmentsCodeFences = true
     #twitter = ""
     #instagram = "username"
     #stackoverflow = "username"
-    #youtube = "user/username" # or channel/channelname
-    #devto = "username"
+    youtube = "duvallhacks" # or channel/channelname
+    devto = "username"
 
 [params]
     tagline = "A Hugo theme for creative and technical writing"
