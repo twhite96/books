@@ -16,24 +16,19 @@ pygmentsCodeFences = true
 [author]
     name = "Example"
     github = "twhite96/books"
-    #gitlab = "username"
     linkedin = "tiff0x8c"
-    #facebook = "username"
-    #twitter = ""
-    #instagram = "username"
-    #stackoverflow = "username"
     youtube = "duvallhacks" # or channel/channelname
-    devto = "username"
+    devto = "0x8c"
 
 [params]
     tagline = "Reading notes from my Kobo and Kindle"
     description = "Reading notes from my Kobo and Kindle."
     #images = [""] #This is used for opengraph/twitter cards.
     customCSS = []  #Optional Customised CSS
-    #favicon = ""
+    favicon = "./favicon.svg"
     #utterancesRepo = "username/repository"
     #utterancesIssueTerm = "pathname"
-    #homepageLength = 10
+    homepageLength = 5
     #commentAutoload = true  #This mean reader don't need click, disqus comment autoload
     #mathjax = true #Enable display of mathematics using mathjax (LaTeX syntax)
     #katex = true #Enable display of mathematics using katex (Faster LaTeX rendering)
