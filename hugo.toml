@@ -1,12 +1,12 @@
 baseurl = "https://reading-notes.0x8c.mobi"
 title = "Reading Notes"
 copyright = "Copyright &copy; 2023 - tiff"
-canonifyurls = false
+canonifyurls = true
 theme = "hugo-kiera"
 
 paginate = 3
 
-summaryLength = 30
+summaryLength = 20
 enableEmoji = true
 pygmentsCodeFences = true
 
@@ -16,7 +16,12 @@ pygmentsCodeFences = true
 [author]
     name = "Example"
     github = "twhite96/books"
+    #gitlab = "username"
     linkedin = "tiff0x8c"
+    #facebook = "username"
+    #twitter = ""
+    #instagram = "username"
+    #stackoverflow = "username"
     youtube = "duvallhacks" # or channel/channelname
     devto = "0x8c"
 
@@ -25,7 +30,7 @@ pygmentsCodeFences = true
     description = "Reading notes from my Kobo and Kindle."
     #images = [""] #This is used for opengraph/twitter cards.
     customCSS = []  #Optional Customised CSS
-    favicon = "./favicon.svg"
+    favicon = "favicon.png"
     #utterancesRepo = "username/repository"
     #utterancesIssueTerm = "pathname"
     homepageLength = 5
