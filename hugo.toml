@@ -1,7 +1,7 @@
 baseurl = "https://reading-notes.0x8c.mobi"
 title = "Reading Notes"
 copyright = "Copyright &copy; 2023 - tiff"
-canonifyurls = true
+canonifyurls = false
 theme = "hugo-kiera"
 
 paginate = 3

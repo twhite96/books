@@ -18,7 +18,16 @@
        <pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate>
        
        <guid>http://localhost:62861/posts/2024-07-07-a-hands-on-introduction-to-essential-python-libraries-and-frameworks/</guid>
-       <description></description>
+       <description>&lt;p&gt;A book for beginners.&lt;/p&gt;&lt;!-- raw HTML omitted --&gt;&lt;p&gt;When I purchased this book, I wanted a brief overview of the essentials, libraries I may not have heard about or had come across. Unfortunately my definition was too&amp;hellip; &lt;em&gt;narrow&lt;/em&gt;, &lt;em&gt;niche&lt;/em&gt; maybe because while these libraries are technically &lt;em&gt;essential&lt;/em&gt;, they are well known to anyone who has been programming for a while.&lt;/p&gt;&lt;p&gt;If you already have familiarity with Python this may not be the book you want.&lt;/p&gt;</description>
+     </item>
+   
+     <item>
+       <title>Book 2: Radware&#39;s DDoS Handbook: The Ultimate Guide to Everything You Need to Know about DDoS Attacks</title>
+       <link>http://localhost:62861/posts/2024-07-07-radwares-ddos-handbook/</link>
+       <pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate>
+       
+       <guid>http://localhost:62861/posts/2024-07-07-radwares-ddos-handbook/</guid>
+       <description>&lt;p&gt;I finished this book in one sitting and found it an interesting insight into how blue teamers need to think about attacks. From a pentester&amp;rsquo;s perspective, it gave me a whole bunch of ideas for tooling to build.&lt;/p&gt;&lt;p&gt;One of the most interesting parts of the book was learning about Slowiris and R.U.D.Y. (R U dead yet?) DoS attacks that slowly attack a network with large HTTP requests or with extremely large form POST requests, which are hard to detect for blue teams.&lt;/p&gt;&lt;p&gt;I decided to try my hand on building such a tool which I&amp;rsquo;ll be making public on &lt;a href=&#34;https://projects.0x8c.run/explore&#34;&gt;my instance of Forgejo&lt;/a&gt; once it is finished.&lt;/p&gt;</description>
      </item>
    
      <item>
