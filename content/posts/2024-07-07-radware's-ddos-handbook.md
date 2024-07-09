@@ -9,4 +9,10 @@ I finished this book in one sitting and found it an interesting insight into how
 
 One of the most interesting parts of the book was learning about Slowiris and R.U.D.Y. (R U dead yet?) DoS attacks that slowly attack a network with large HTTP requests or with extremely large form POST requests, which are hard to detect for blue teams.
 
+
+## More on the book
+
+[Notes](https://notes.0x8c.org/Research/DDOS-Handbook)
+
+
 I decided to try my hand on building such a tool which I'll be making public on [my instance of Forgejo](https://projects.0x8c.run/explore) once it is finished.
