@@ -2,46 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:52752/tech/</loc>
-    <lastmod>2024-07-07T00:00:00+00:00</lastmod>
+    <loc>http://localhost:60750/</loc>
   </url><url>
-    <loc>http://localhost:52752/posts/</loc>
-    <lastmod>2024-03-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:52752/cybersecurity/</loc>
-    <lastmod>2024-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:52752/nonfiction/</loc>
-  </url><url>
-    <loc>http://localhost:52752/other/</loc>
-  </url><url>
-    <loc>http://localhost:52752/about/</loc>
+    <loc>http://localhost:60750/about/</loc>
     <lastmod>2024-08-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:52752/</loc>
+    <loc>http://localhost:60750/</loc>
     <lastmod>2024-08-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:52752/tech/2024-07-07-a-hands-on-introduction-to-essential-python-libraries-and-frameworks/</loc>
+    <loc>http://localhost:60750/posts/2024-07-07-a-hands-on-introduction-to-essential-python-libraries-and-frameworks/</loc>
     <lastmod>2024-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:52752/cybersecurity/2024-07-07-radwares-ddos-handbook/</loc>
+    <loc>http://localhost:60750/posts/2024-07-07-radwares-ddos-handbook/</loc>
     <lastmod>2024-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:52752/tags/ddos/</loc>
+    <loc>http://localhost:60750/tags/cybersecurity/</loc>
     <lastmod>2024-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:52752/tags/python/</loc>
+    <loc>http://localhost:60750/posts/</loc>
     <lastmod>2024-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:52752/tags/</loc>
+    <loc>http://localhost:60750/tags/</loc>
     <lastmod>2024-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:52752/tags/meta/</loc>
-    <lastmod>2024-03-14T00:00:00+00:00</lastmod>
+    <loc>http://localhost:60750/tags/tech/</loc>
+    <lastmod>2024-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:52752/posts/2024-02-26-gsoc/</loc>
-    <lastmod>2024-03-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:52752/categories/</loc>
+    <loc>http://localhost:60750/categories/</loc>
   </url>
 </urlset>

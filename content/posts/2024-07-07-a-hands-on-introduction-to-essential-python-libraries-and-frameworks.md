@@ -1,6 +1,6 @@
 ---
 date: "2024-07-07"
-tags: ["python"]
+tags: ["tech"]
 excerpt: A book for beginners.
 title: "Book 1: A Hands-On Introduction to Essential Python Libraries and Frameworks"
 ---

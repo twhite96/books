@@ -1,6 +1,6 @@
 ---
 date: "2024-07-07"
-tags: ["ddos"]
+tags: ["cybersecurity"]
 description: A great book for new red teamers.
 title: "Book 2: Radware's DDoS Handbook: The Ultimate Guide to Everything You Need to Know about DDoS Attacks"
 ---

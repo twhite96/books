@@ -1,32 +1,31 @@
 
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
  <channel>
-   <title>Tags on Reading Notes</title>
-   <link>http://localhost:60750/tags/</link>
-   <description>Recent content in Tags on Reading Notes</description>
+   <title>Welcome on Reading Notes</title>
+   <link>http://localhost:53066/pages/</link>
+   <description>Recent content in Welcome on Reading Notes</description>
    <generator>Hugo -- gohugo.io</generator>
    <language>en</language>
    <copyright>Copyright &amp;copy; 2023 - tiff</copyright>
-   <lastBuildDate>Sun, 07 Jul 2024 00:00:00 +0000</lastBuildDate>
    
-       <atom:link href="http://localhost:60750/tags/index.xml" rel="self" type="application/rss+xml" />
+       <atom:link href="http://localhost:53066/pages/index.xml" rel="self" type="application/rss+xml" />
    
    
      <item>
        <title>Book 1: A Hands-On Introduction to Essential Python Libraries and Frameworks</title>
-       <link>http://localhost:60750/posts/2024-07-07-a-hands-on-introduction-to-essential-python-libraries-and-frameworks/</link>
+       <link>http://localhost:53066/posts/2024-07-07-a-hands-on-introduction-to-essential-python-libraries-and-frameworks/</link>
        <pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate>
        
-       <guid>http://localhost:60750/posts/2024-07-07-a-hands-on-introduction-to-essential-python-libraries-and-frameworks/</guid>
+       <guid>http://localhost:53066/posts/2024-07-07-a-hands-on-introduction-to-essential-python-libraries-and-frameworks/</guid>
        <description>&lt;p&gt;A book for beginners.&lt;/p&gt;&lt;!-- raw HTML omitted --&gt;&lt;p&gt;When I purchased this book, I wanted a brief overview of the essentials, libraries I may not have heard about or had come across. Unfortunately my definition was too&amp;hellip; &lt;em&gt;narrow&lt;/em&gt;, &lt;em&gt;niche&lt;/em&gt; maybe because while these libraries are technically &lt;em&gt;essential&lt;/em&gt;, they are well known to anyone who has been programming for a while.&lt;/p&gt;&lt;p&gt;If you already have familiarity with Python this may not be the book you want.&lt;/p&gt;</description>
      </item>
    
      <item>
        <title>Book 2: Radware&#39;s DDoS Handbook: The Ultimate Guide to Everything You Need to Know about DDoS Attacks</title>
-       <link>http://localhost:60750/posts/2024-07-07-radwares-ddos-handbook/</link>
+       <link>http://localhost:53066/posts/2024-07-07-radwares-ddos-handbook/</link>
        <pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate>
        
-       <guid>http://localhost:60750/posts/2024-07-07-radwares-ddos-handbook/</guid>
+       <guid>http://localhost:53066/posts/2024-07-07-radwares-ddos-handbook/</guid>
        <description>&lt;p&gt;I finished this book in one sitting and found it an interesting insight into how blue teamers need to think about attacks. From a pentester&amp;rsquo;s perspective, it gave me a whole bunch of ideas for tooling to build.&lt;/p&gt;&lt;p&gt;One of the most interesting parts of the book was learning about Slowiris and R.U.D.Y. (R U dead yet?) DoS attacks that slowly attack a network with large HTTP requests or with extremely large form POST requests, which are hard to detect for blue teams.&lt;/p&gt;&lt;h2 id=&#34;more-on-the-book&#34;&gt;More on the book&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://notes.0x8c.org/Research/DDOS-Handbook&#34;&gt;Notes&lt;/a&gt;&lt;/p&gt;&lt;p&gt;I decided to try my hand on building such a tool which I&amp;rsquo;ll be making public on &lt;a href=&#34;https://projects.0x8c.run/explore&#34;&gt;my instance of Forgejo&lt;/a&gt; once it is finished.&lt;/p&gt;</description>
      </item>
    

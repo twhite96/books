@@ -41,11 +41,7 @@ pygmentsCodeFences = true
     #disableDarkModeCSS = false # disables css style for users using dark-mode
 
 # uncomment to enable the Tags link on the main toolbar
-# [[menu.main]]
-#     identifier = "home"
-#     name = "Home"
-#     url = "/"
-#     weight = 1
+
 
 
   # [[menu.main]]
@@ -55,13 +51,24 @@ pygmentsCodeFences = true
   #   weight = 2
 
 
-# uncomment to enable the Tags link on the main toolbar
-  # [[menu.main]]
-  #   identifier = "tech"
-  #   name = "Tech"
-  #   url = "/tech"
-  #   weight = 10
 
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts"
+    weight = 3
+# uncomment to enable the Tags link on the main toolbar
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags"
+    weight = 4
+
+  # [[menu.main]]
+  #   identifier = "about"
+  #   name = "About"
+  #   url = "/about"
+  #   weight = 3
   # [[menu.main]]
   #   identifier = "llvmorg"
   #   name = "llvm.org"
