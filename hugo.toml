@@ -22,8 +22,9 @@ pygmentsCodeFences = true
     #twitter = ""
     #instagram = "username"
     #stackoverflow = "username"
-    youtube = "duvallhacks" # or channel/channelname
-    devto = "0x8c"
+    #youtube = "duvallhacks" # or channel/channelname
+    #devto = "0x8c"
+    goodreads = "0x8c"
 
 [params]
     tagline = "Reading notes from my Kobo and Kindle"
@@ -56,13 +57,13 @@ pygmentsCodeFences = true
     identifier = "posts"
     name = "Posts"
     url = "/posts"
-    weight = 3
+    weight = 35
 # uncomment to enable the Tags link on the main toolbar
   [[menu.main]]
     identifier = "tags"
     name = "Tags"
     url = "/tags"
-    weight = 4
+    weight = 45
 
   # [[menu.main]]
   #   identifier = "about"

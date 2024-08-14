@@ -15,3 +15,4 @@ You can navigate the site using the following tags to find which genre or catego
 - [non-fiction](/tags/nonfiction)
 - [fiction](/tags/fiction)
 - [articles](/tags/articles)
+- [other](/tags/other)
