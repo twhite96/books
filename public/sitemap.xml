@@ -2,38 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:57584/</loc>
+    <loc>http://localhost:62670/</loc>
   </url><url>
-    <loc>http://localhost:57584/about/</loc>
+    <loc>http://localhost:62670/about/</loc>
     <lastmod>2024-08-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:57584/tags/nonfiction/</loc>
+    <loc>http://localhost:62670/tags/nonfiction/</loc>
     <lastmod>2024-08-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:57584/posts/</loc>
+    <loc>http://localhost:62670/posts/</loc>
     <lastmod>2024-08-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:57584/</loc>
+    <loc>http://localhost:62670/</loc>
     <lastmod>2024-08-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:57584/posts/2024-08-13-savage-spawn/</loc>
+    <loc>http://localhost:62670/posts/2024-08-13-savage-spawn/</loc>
     <lastmod>2024-08-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:57584/tags/</loc>
+    <loc>http://localhost:62670/tags/</loc>
     <lastmod>2024-08-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:57584/posts/2024-07-07-a-hands-on-introduction-to-essential-python-libraries-and-frameworks/</loc>
+    <loc>http://localhost:62670/posts/2024-07-07-a-hands-on-introduction-to-essential-python-libraries-and-frameworks/</loc>
     <lastmod>2024-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:57584/posts/2024-07-07-radwares-ddos-handbook/</loc>
+    <loc>http://localhost:62670/posts/2024-07-07-radwares-ddos-handbook/</loc>
     <lastmod>2024-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:57584/tags/cybersecurity/</loc>
+    <loc>http://localhost:62670/tags/cybersecurity/</loc>
     <lastmod>2024-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:57584/tags/tech/</loc>
+    <loc>http://localhost:62670/tags/tech/</loc>
     <lastmod>2024-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:57584/categories/</loc>
+    <loc>http://localhost:62670/categories/</loc>
   </url>
 </urlset>
