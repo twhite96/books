@@ -1,4 +1,4 @@
-baseurl = "https://reading-notes.0x8c.mobi"
+baseurl = "https://readings.tiff.ws"
 title = "Reading Notes"
 copyright = "Copyright &copy; 2023 - tiff"
 canonifyurls = true
@@ -14,64 +14,62 @@ pygmentsCodeFences = true
 
 # Note: to disable a social network icon delete or comment out the corresponding line
 [author]
-    name = "Example"
-    github = "twhite96/books"
-    #gitlab = "username"
-    linkedin = "tiff0x8c"
-    #facebook = "username"
-    #twitter = ""
-    #instagram = "username"
-    #stackoverflow = "username"
-    #youtube = "duvallhacks" # or channel/channelname
-    #devto = "0x8c"
-    goodreads = "0x8c"
+name = "Example"
+github = "twhite96/books"
+#gitlab = "username"
+linkedin = "tiff0x8c"
+#facebook = "username"
+#twitter = ""
+#instagram = "username"
+#stackoverflow = "username"
+#youtube = "duvallhacks" # or channel/channelname
+#devto = "0x8c"
+goodreads = "0x8c"
 
 [params]
-    tagline = "Reading notes from my Kobo and Kindle"
-    description = "Reading notes from my Kobo and Kindle."
-    #images = [""] #This is used for opengraph/twitter cards.
-    customCSS = []  #Optional Customised CSS
-    favicon = "/images/favicon.svg"
-    #utterancesRepo = "username/repository"
-    #utterancesIssueTerm = "pathname"
-    homepageLength = 5
-    #commentAutoload = true  #This mean reader don't need click, disqus comment autoload
-    #mathjax = true #Enable display of mathematics using mathjax (LaTeX syntax)
-    #katex = true #Enable display of mathematics using katex (Faster LaTeX rendering)
-    #google_fonts = ["Staatliches"] # Adds additional google fonts
-    #disableDarkModeCSS = false # disables css style for users using dark-mode
+tagline = "Reading notes from my Kobo and Kindle"
+description = "Reading notes from my Kobo and Kindle."
+#images = [""] #This is used for opengraph/twitter cards.
+customCSS = []                  #Optional Customised CSS
+favicon = "/images/favicon.svg"
+#utterancesRepo = "username/repository"
+#utterancesIssueTerm = "pathname"
+homepageLength = 5
+#commentAutoload = true  #This mean reader don't need click, disqus comment autoload
+#mathjax = true #Enable display of mathematics using mathjax (LaTeX syntax)
+#katex = true #Enable display of mathematics using katex (Faster LaTeX rendering)
+#google_fonts = ["Staatliches"] # Adds additional google fonts
+#disableDarkModeCSS = false # disables css style for users using dark-mode
 
 # uncomment to enable the Tags link on the main toolbar
 
 
-
-  # [[menu.main]]
-  #   identifier = "posts"
-  #   name = "Posts"
-  #   url = "/posts"
-  #   weight = 2
-
+# [[menu.main]]
+#   identifier = "posts"
+#   name = "Posts"
+#   url = "/posts"
+#   weight = 2
 
 
-  [[menu.main]]
-    identifier = "posts"
-    name = "Posts"
-    url = "/posts"
-    weight = 35
+[[menu.main]]
+identifier = "posts"
+name = "Posts"
+url = "/posts"
+weight = 35
 # uncomment to enable the Tags link on the main toolbar
-  [[menu.main]]
-    identifier = "tags"
-    name = "Tags"
-    url = "/tags"
-    weight = 45
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags"
+weight = 45
 
-  # [[menu.main]]
-  #   identifier = "about"
-  #   name = "About"
-  #   url = "/about"
-  #   weight = 3
-  # [[menu.main]]
-  #   identifier = "llvmorg"
-  #   name = "llvm.org"
-  #   url = "https://llvm.org/"
-  #   weight = 4
+# [[menu.main]]
+#   identifier = "about"
+#   name = "About"
+#   url = "/about"
+#   weight = 3
+# [[menu.main]]
+#   identifier = "llvmorg"
+#   name = "llvm.org"
+#   url = "https://llvm.org/"
+#   weight = 4
