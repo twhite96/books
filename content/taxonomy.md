@@ -10,7 +10,6 @@ This is just a place for me to write about the books, articles, and whitepapers 
 
 You can navigate the site using the following tags to find which genre or category of books you want to see notes about:
 
-- [cybersecurity](/tags/cybersecurity)
 - [tech](/tags/tech)
 - [non-fiction](/tags/nonfiction)
 - [fiction](/tags/fiction)
