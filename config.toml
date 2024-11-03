@@ -22,7 +22,7 @@ forgejo = "explore"
 #twitter = ""
 #instagram = "username"
 #stackoverflow = "username"
-youtube = "tifflabs"   # or channel/channelname
+youtube = "@tifflabs"   # or channel/channelname
 devto = "tifflabs"
 goodreads = "tifflabs"
 
