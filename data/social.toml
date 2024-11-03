@@ -25,10 +25,10 @@ title = "GitLab"
 icon = "fab fa-gitlab"
 
 [[social_icons]]
-id = "bitbucket"
-url = "https://bitbucket.org/%s"
-title = "Bitbucket"
-icon = "fab fa-bitbucket"
+id = "codeberg"
+url = "https://codeberg.org/%s"
+title = "Codeberg"
+icon = "si si-codeberg"
 
 [[social_icons]]
 id = "twitter"

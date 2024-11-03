@@ -14,17 +14,17 @@ pygmentsCodeFences = true
 
 # Note: to disable a social network icon delete or comment out the corresponding line
 [author]
-name = "Example"
+name = "Tiff"
 github = "twhite96/books"
-#gitlab = "username"
-linkedin = "tiff0x8c"
+codeberg = "tifflabs"
+#linkedin = "tiff0x8c"
 #facebook = "username"
 #twitter = ""
 #instagram = "username"
 #stackoverflow = "username"
-#youtube = "duvallhacks" # or channel/channelname
-#devto = "0x8c"
-goodreads = "0x8c"
+youtube = "tifflabs"   # or channel/channelname
+devto = "tifflabs"
+goodreads = "tifflabs"
 
 [params]
 tagline = "Reading notes from my Kobo and Kindle"
@@ -73,3 +73,6 @@ weight = 45
 #   name = "llvm.org"
 #   url = "https://llvm.org/"
 #   weight = 4
+
+  # [[module.imports]]
+  # path = "github.com/foo-dogsquared/hugo-mod-simple-icons"
