@@ -19,10 +19,10 @@ title = "GitHub"
 icon = "fab fa-github"
 
 [[social_icons]]
-id = "gitlab"
-url = "https://gitlab.com/%s"
-title = "GitLab"
-icon = "fab fa-gitlab"
+id = "forgejo"
+url = "https://www.tifflabs-software.org/%s"
+title = "Forgejo"
+icon = "si si-forgejo"
 
 [[social_icons]]
 id = "codeberg"

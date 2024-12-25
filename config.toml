@@ -17,12 +17,12 @@ pygmentsCodeFences = true
 name = "Tiff"
 github = "twhite96/books"
 codeberg = "tifflabs"
-#linkedin = "tiff0x8c"
+forgejo = "explore"
 #facebook = "username"
 #twitter = ""
 #instagram = "username"
 #stackoverflow = "username"
-youtube = "tifflabs"   # or channel/channelname
+youtube = "@tifflabs"   # or channel/channelname
 devto = "tifflabs"
 goodreads = "tifflabs"
 
